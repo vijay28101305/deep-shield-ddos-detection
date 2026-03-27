@@ -1,7 +1,8 @@
-# Deep Shield: Deep Learning-Based DDoS Detection in SDN Systems
+# NetSentinel: AI-Powered DDoS Detection in SDN Systems
+
 
 ## Overview
-Deep Shield is a deep learning system designed to detect Distributed Denial of Service (DDoS) attacks in Software Defined Networking (SDN) environments.
+NetSentinel is a deep learning system designed to detect Distributed Denial of Service (DDoS) attacks in Software Defined Networking (SDN) environments.
 
 This project focuses on building a model that can identify both common and evolving attack patterns using a combination of unsupervised feature learning and hybrid deep learning architectures.
 
